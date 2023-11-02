@@ -1,15 +1,14 @@
 # Prayaas_DevWEB
 
 
-Created By DevWEB For Webkriti, Aproksha'23 IIIT Allahabad
+Created by Team DevWEB For Webkriti (Hackathon in Aproksha'23, IIIT Allahabad's Technical Fest)
 
 
 
-We Created Our First Project as a team (DevWEB) by developing a model Website For Prayaas (a non profit organization of students of IIIT Allahabad) in Webkriti,Aproksha'23 of IIIT Allahabad within a Day.
+We Created this Project as a team (DevWEB) by developing a model Website For Prayaas (a non profit organization of students of IIIT Allahabad) in Webkriti,Aproksha'23 of IIIT Allahabad within a Day.
 
 
 Team Members:
-
-Buddhi Sagar Panjiyar (@iam-buddhi)
     Mahavir Sancheti (@Mahavir2112)
+    Buddhi Sagar Panjiyar (@iam-buddhi)
     Dhiraj Kumar Sinha (@sruRaj07)
